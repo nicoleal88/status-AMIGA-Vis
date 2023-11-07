@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 117,
-    "timeDay": 93,
-    "timeWeek": 91,
-    "timeMonth": 117,
-    "timeYear": 117,
+    "time": 115,
+    "timeDay": 76,
+    "timeWeek": 88,
+    "timeMonth": 115,
+    "timeYear": 115,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/amiga-map.ahuekna.org.ar.ico",
     "slug": "amiga-visualizer-v2",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 3075,
-    "timeDay": 6090,
-    "timeWeek": 2492,
-    "timeMonth": 3075,
-    "timeYear": 3075,
-    "dailyMinutesDown": {
-      "2023-11-06": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 3136,
+    "timeDay": 5624,
+    "timeWeek": 3158,
+    "timeMonth": 3136,
+    "timeYear": 3136,
+    "dailyMinutesDown": {}
   }
 ]
