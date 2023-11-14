@@ -22,19 +22,19 @@
     "url": "https://amiga-map.ahuekna.org.ar",
     "icon": "https://icons.duckduckgo.com/ip3/amiga-map.ahuekna.org.ar.ico",
     "slug": "amiga-visualizer-v2",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3010,
-    "timeDay": 1001,
-    "timeWeek": 2563,
-    "timeMonth": 3010,
-    "timeYear": 3010,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 3079,
+    "timeDay": 3133,
+    "timeWeek": 2901,
+    "timeMonth": 3079,
+    "timeYear": 3079,
     "dailyMinutesDown": {
-      "2023-11-14": 0
+      "2023-11-14": 9
     }
   }
 ]
