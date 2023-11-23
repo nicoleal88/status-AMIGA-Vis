@@ -22,7 +22,7 @@
     "url": "https://amiga-map.ahuekna.org.ar",
     "icon": "https://icons.duckduckgo.com/ip3/amiga-map.ahuekna.org.ar.ico",
     "slug": "amiga-visualizer-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 2676,
     "timeMonth": 2745,
     "timeYear": 3080,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-23": 0
+    }
   }
 ]
